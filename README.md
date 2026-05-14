@@ -1,6 +1,6 @@
 # Cloudaffle
 
-**[Live Demo](https://github.com/Kamran-Riyaz/cloudaffle)**
+**[Live Demo](https://kamran-riyaz.github.io/cloudaffle/)**
 
 ## Project Screenshot
 
